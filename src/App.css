@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*  */
+/*  */
+/*  */
+/*  */
+.App{text-align:left;}
+.App .title{background:#000;color:#fff;padding:20px;}
+.App h4, .App p{margin:0;}
+.list{padding:20px;border-bottom:1px solid #666;}
+.list p{margin-top:5px;}
+/* .text_cont{} */
